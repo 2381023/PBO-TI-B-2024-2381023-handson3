@@ -1,4 +1,4 @@
-package handson1;
+package TugasKelas;
 
 public class Tugas1ForLoop {
     public static void main(String[] args) {
